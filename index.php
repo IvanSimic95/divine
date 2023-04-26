@@ -8,7 +8,7 @@
 
 </head>
 
-
+<div id="progressbar"></div>
 <div class="wrapper clearfix">
 	<div style="text-align:center;padding:0 0 40px;">
 		<img src="https://sale.psychic-artist.com/wp-content/uploads/2021/01/heartlogo-pink-small.png" style="margin:0 auto;height:80px;">
